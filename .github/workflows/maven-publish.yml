@@ -34,4 +34,4 @@ jobs:
         GITHUB_TOKEN: ${{ github.token }}
   
     - name: build maven package
-      run: mvn package --file pom.xml
+      run: mvn -B package --file pom.xml
