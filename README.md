@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maven_webbased_project
 Create a project from scratch
 =======
@@ -156,3 +157,7 @@ If using **Tomcat**:
 ---
 
 This setup should provide you with a basic structure to develop a Java web application with Maven. You can customize it further as needed! Let me know if you'd like help with adding more features.
+=======
+# Maven_Webapp_Githubactions
+Creating github actions for maven based webapp
+>>>>>>> 985ac1f9465948eeb2037e3a71914368f64a04e2
